@@ -20,7 +20,6 @@
 ## 使用DEMO如下：
 
 
-eg:
 ```
 require 'vendor/Api.php';
 
