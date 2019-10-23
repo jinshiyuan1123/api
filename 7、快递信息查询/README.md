@@ -19,7 +19,6 @@
 
 ## 使用DEMO如下：
 
-
 ```
 require 'vendor/Api.php';
 
